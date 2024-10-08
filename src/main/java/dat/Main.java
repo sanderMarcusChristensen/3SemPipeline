@@ -10,5 +10,7 @@ public class Main {
         EntityManagerFactory emf = HibernateConfig.getEntityManagerFactory("persons");
 
         System.out.println("Hello World! ");
+
+
     }
 }
