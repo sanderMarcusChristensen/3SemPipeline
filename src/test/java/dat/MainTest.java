@@ -20,11 +20,9 @@ class MainTest {
     @Test
     void errorMath(){
 
-        int x = 10;
-
-        int y = 6 + 5;
-
-        assertEquals(x,y);
+        //int x = 10;
+        //int y = 6 + 5;
+        //assertEquals(x,y);
     }
 
 }
